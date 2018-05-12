@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7495
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Glanville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36602#Tales-from-the-Veld
 gutenberg_issued: '2011-07-03'
 gutenberg_type: Text
 identifiers:
