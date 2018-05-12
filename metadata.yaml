@@ -1,0 +1,33 @@
+_repo: Tales-from-the-Veld_36602
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Nisbet, M.
+    gutenberg_agent_id: '38373'
+    url: http://www.gutenberg.org/2009/agents/38373
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Glanville, Ernest
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '7495'
+    url: http://www.gutenberg.org/2009/agents/7495
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Glanville
+description: ''
+gutenberg_issued: '2011-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Storytelling -- Fiction'
+- !lcsh 'South Africa -- Fiction'
+- !lcc 'PR'
+title: Tales from the Veld
+url: http://www.gutenberg.org/ebooks/36602
